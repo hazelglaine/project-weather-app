@@ -1,20 +1,24 @@
+import React from "react";
+
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1>Weather Application</h1>
-      <footer>
-        This project was coded by Hazel and is{" "}
-        <a
-          href="https://github.com/hazelglaine/project-weather-app"
-          target="_blank"
-          rel="noreferrer"
-        >
-          open-sourced
-        </a>{" "}
-        in Github.
-      </footer>
+      <div className="container">
+        <h1>Weather Application</h1>
+        <footer>
+          This project was coded by Hazel and is{" "}
+          <a
+            href="https://github.com/hazelglaine/project-weather-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            open-sourced
+          </a>{" "}
+          in Github.
+        </footer>
+      </div>
     </div>
   );
 }
