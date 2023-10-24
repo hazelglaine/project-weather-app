@@ -14,6 +14,7 @@ function App() {
             href="https://github.com/hazelglaine/project-weather-app"
             target="_blank"
             rel="noopener noreferrer"
+            className="ProjectLink"
           >
             open-sourced
           </a>{" "}
