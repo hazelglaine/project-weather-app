@@ -30,7 +30,7 @@
 .Weather canvas {
   display: inline-block;
   vertical-align: sub;
-  margin-bottom: 5px;
+  margin-top: 12px;
   margin-right: 5px;
 }
 
