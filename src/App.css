@@ -8,6 +8,8 @@
   margin: 5px 0;
 }
 
-.ProjectLink {
+.ProjectLink,
+.BioLink,
+.HostLink {
   text-decoration: none;
 }

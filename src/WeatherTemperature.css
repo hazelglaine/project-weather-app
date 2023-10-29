@@ -1,3 +1,17 @@
 .WeatherTemperature a {
   color: #5c715e;
 }
+
+.FahrenheitUnit,
+.CelsiusUnit {
+  text-decoration: none;
+  transition: all 200ms ease-in-out;
+}
+
+.FahrenheitUnit:hover {
+  font-weight: 600;
+}
+
+.CelsiusUnit:hover {
+  font-weight: 600;
+}
